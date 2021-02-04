@@ -1,0 +1,32 @@
+/*Admin Style CSS*/
+
+
+
+.term-slug-wrap{
+	display: none !important;
+   }
+.term-parent-wrap{
+    display: none !important;
+    }
+.term-display-type-wrap{
+    display: none !important;
+    }
+
+/*#slug.column-slug{
+	display: none !important;
+}*/
+.column-slug{
+	display: none !important;
+}     
+
+div#col-container div#col-right p, div#col-container div#col-left p {
+    display: none;
+}
+
+div#col-container div#col-left p.submit {
+    display: block;
+}
+
+a.page-title-action.aria-button-if-js {
+    display: none;
+}
